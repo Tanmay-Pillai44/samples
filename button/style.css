@@ -1,0 +1,197 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.btn {
+    height: 50px;
+    width: 150px;
+    margin: 50px;
+    border: none;
+    font-size: large;
+    border-radius: 5px;  
+}
+
+.google {
+    position: relative;
+    bottom: 5px;
+    left: 5px;
+}
+
+.b1 {
+    background-color: dodgerblue;
+}
+
+.b2 {
+    background-color: yellowgreen;
+    border: 2px solid coral;
+    color: blue;
+}
+
+.b3 {
+    background-color: red;
+    border: 2px double black;
+    box-shadow: 1px 1px 1px magenta;
+}
+
+.b4 {
+    background-color: antiquewhite;
+    border: 2px dashed black;
+}
+
+.b5 {
+    background-color: yellow;
+    border: 2px solid blue;
+    color: darkviolet
+}
+
+.b6 {
+    background-color: rgb(255, 136, 0);
+    border: 2px solid blue;
+    color: rgb(0, 0, 0)
+}
+
+.b7 {
+    background-color: rgb(6, 84, 136);
+    border: 2px dotted rgb(132, 248, 0);
+    color: rgb(211, 0, 81)
+}
+
+.b8 {
+    background-color: rgb(15, 216, 206);
+    border: 2px solid rgb(16, 190, 68);
+    color: rgb(211, 0, 11)
+}
+
+.b9 {
+    background-color: rgb(32, 22, 70);
+    border: 2px solid rgb(255, 255, 255);
+    color: rgb(0, 186, 211)
+}
+
+.b10 {
+    background-color: rgb(43, 255, 0);
+    border: 2px dashed rgb(81, 81, 121);
+    color: rgb(0, 21, 211)
+}
+
+.b11 {
+    background-color: rgb(23, 21, 44);
+    border: 2px solid rgb(0, 0, 0);
+    color: rgb(211, 102, 0)
+}
+
+.b12 {
+    background-color: rgb(131, 131, 54);
+    border: 2px solid rgb(4, 73, 67);
+    color: rgb(53, 4, 73)
+}
+
+.b13 {
+    background-color: yellowgreen;
+    border: 2px solid coral;
+    color: blue;
+}
+
+.b14 {
+    background-color: rgb(0, 56, 139);
+    border: 2px dashed rgb(72, 255, 0);
+    color: darkviolet
+}
+
+.b15 {
+    background-color: rgb(5, 85, 18);
+    border: 2px solid rgb(0, 0, 0);
+    color: rgb(255, 255, 255)
+}
+
+.b16 {
+    background-color: rgb(14, 185, 91);
+    border: 2px solid blue;
+    color: darkviolet
+}
+
+.b17 {
+    background-color: rgb(0, 255, 42);
+    border: 2px dotted blue;
+    color: darkviolet
+}
+
+.b18 {
+    background-color: rgb(0, 132, 255);
+    border: 2px dotted rgb(0, 0, 0);
+    color: rgb(0, 0, 0)
+}
+
+.b19 {
+    background-color: rgb(0, 255, 42);
+    border: 2px dashed rgb(255, 0, 170);
+    color: rgb(25, 211, 0)
+}
+
+.b20 {
+    background-color: rgb(255, 0, 85);
+    border: 2px solid rgb(0, 0, 0);
+    color: rgb(0, 0, 0)
+}
+
+.b21 {
+    background-color: rgb(0, 217, 255);
+    border: 2px double rgb(173, 37, 19);
+    color: darkviolet
+}
+
+.b22 {
+    background-color: rgb(0, 4, 255);
+    border: 2px dotted rgb(0, 0, 0);
+    color: rgb(255, 0, 0)
+}
+
+.b23 {
+    background-color: rgb(0, 255, 42);
+    border: 2px solid blue;
+    color: rgb(211, 0, 0)
+}
+
+.b24 {
+    background-color: rgb(17, 0, 255);
+    border: 2px dashed rgb(255, 0, 0);
+    color: darkviolet
+}
+
+.b25 {
+    background-color: rgb(255, 123, 0);
+    border: 2px solid rgb(0, 255, 157);
+    color: rgb(0, 0, 0)
+}
+
+.b26 {
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 38, 0);
+    color: darkviolet
+}
+
+.b27 {
+    background-color: rgb(0, 68, 255);
+    border: 2px dashed rgb(0, 0, 0);
+    color: rgb(0, 255, 42)
+}
+
+.b28 {
+    background-color: rgb(0, 238, 255);
+    border: 2px solid rgb(255, 0, 0);
+    color: rgb(0, 0, 0)
+}
+
+.b29 {
+    background-color: rgb(255, 255, 255);
+    border: 2px solid blue;
+    color: rgb(0, 0, 0)
+}
+
+.b30 {
+    background-color: rgb(72, 92, 206);
+    border: 2px dotted rgb(0, 0, 0);
+    color: rgb(1, 139, 8)
+}
